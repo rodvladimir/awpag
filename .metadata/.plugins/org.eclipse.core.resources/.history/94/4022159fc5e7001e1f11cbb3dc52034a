@@ -1,0 +1,5 @@
+package com.vrtec.api.domail.model;
+
+public class Cliente {
+
+}

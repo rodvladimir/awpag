@@ -1,0 +1,5 @@
+package com.vrtec.api.domain.repository;
+
+public interface ClienteRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.vrtec.api.domain.model;
+
+public class Cliente {
+
+}
